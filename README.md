@@ -1,1 +1,1 @@
-# rp.edu.sg
+# Code repo for RP corporate website
